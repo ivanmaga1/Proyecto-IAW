@@ -16,6 +16,7 @@ $resultado = $conexion->query($query);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Libros y Cómics Disponibles</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <h1>Libros y Cómics Disponibles para Alquiler</h1>
